@@ -1,3 +1,3 @@
 # RoboSveinki
 VESM3 Lokaverkefni
-#Daníel, Gabríel, Sverrir
+# Daníel, Gabríel, Sverrir
