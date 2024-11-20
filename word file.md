@@ -12,3 +12,6 @@ This is the Diolog File:
 This is the item List:
 
 [link] https://studenttskoli-my.sharepoint.com/:w:/g/personal/sverrirad23_tskoli_is/EeUww5-ILOBMhmWwX6FkGskBdw1auIBZiD3P_xJIaymPOw?e=UsVFIc
+
+
+(updated: [Wed/20/Nov]2024)
